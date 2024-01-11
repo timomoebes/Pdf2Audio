@@ -16,8 +16,9 @@ Before you can use the script, make sure you have Python installed on your compu
 To use the script, first clone this repository:
 
 ```bash
-git clone https://github.com/YourUsername/YourRepository.git
-cd YourRepository
+git clone https://github.com/timomoebes/Pdf2Audio.git
+cd Pdf2Audio
+
 
 Then, install the required packages:
 pip install PyPDF2 pyttsx3
