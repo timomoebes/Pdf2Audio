@@ -23,14 +23,11 @@ cd Pdf2Audio
 Then, install the required packages:
 pip install PyPDF2 pyttsx3
 
-Usage
 Run the script from the repository directory:
 python main.py
 
 Ensure that the PDF file you wish to convert is in the same directory and named book.pdf.
 
-Contributions
 Contributions are welcome! If you'd like to make an improvement or a bug fix, please create a pull request.
 
-License
 This project is licensed under the MIT License. Please refer to the license terms for using or distributing this software.
