@@ -14,8 +14,6 @@ Before you can use the script, make sure you have Python installed on your compu
 ## Installation
 
 To use the script, first clone this repository:
-
-```bash
 git clone https://github.com/timomoebes/Pdf2Audio.git
 cd Pdf2Audio
 
